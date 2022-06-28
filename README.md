@@ -1,8 +1,8 @@
 ## Olá, eu sou o Cainã Micael! 😇👨‍🎓
 
-- Estudante de Ciência da Computação | 3º Período
+- Estudante de Ciência da Computação - **3º Período**
 - Hoje eu sou estudante, amanhã serei um **dev full-stack**!
-- Estudando Java, Html, Css. JavaScript e seus Frameworks!
+- Estudando *Java, Html, Css. JavaScript* e seus *Frameworks*!
 
 ##
 
