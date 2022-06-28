@@ -40,3 +40,5 @@
   ![Snake animation](https://github.com/cainamicael/cainamicael/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+![25231](https://user-images.githubusercontent.com/83286162/176061503-a6b5758a-fdd3-4486-933c-428156c058de.png)
+![Git-Icon-1788C](https://user-images.githubusercontent.com/83286162/176061541-d1a7f0e0-b297-48a4-8c07-543ab7e5cf8f.png)
