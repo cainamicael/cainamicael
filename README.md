@@ -2,7 +2,7 @@
 
 #### Estudante de Ciência da Computação - **3º Período**
 - Dev **Back-end**
-- Estudando *Python, Java e Node.js*
+- Estudando *Python, Java, PHP e Node.js*
 
 ##
 
