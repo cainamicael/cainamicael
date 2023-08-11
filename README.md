@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/cainamicael">
-  <img height="360em" src="https://github-readme-stats.vercel.app/api?username=cainamicael&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=cainamicael&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
 <!--
 </div>
 <div style="display: inline_block"><br>
