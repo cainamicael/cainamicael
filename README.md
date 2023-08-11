@@ -1,7 +1,7 @@
 ## Olá, eu sou o Cainã Micael! 😇👨‍🎓
 
-#### Estudante de Ciência da Computação - **5º Período**
-- Dev **Back-end**
+#### Estudante de Ciência da Computação - **6º Período**
+- Dev **Full-Stack**
 - Estudando *Python, Java, PHP e Node.js*
 
 ##
